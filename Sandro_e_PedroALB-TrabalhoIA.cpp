@@ -4,12 +4,6 @@
 #include <unordered_set> // Biblioteca para trabalhar com conjuntos não ordenados
 using namespace std; // Namespace padrão para evitar repetição de "std::"
 
-
-//struct estado
-
-
-
-
 // Estrutura para representar o estado do problema
 struct Estado {
     int missionarios_esquerda; // Número de missionários na margem esquerda
